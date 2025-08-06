@@ -1,6 +1,6 @@
 {
     "name": "@jullury-fluent/smart-api-client",
-    "version": "0.0.16",
+    "version": "1.0.0",
     "description": "Common utilities and helpers",
     "keywords": [
         "nestjs",
